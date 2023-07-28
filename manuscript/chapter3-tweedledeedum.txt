@@ -1,1 +1,1 @@
-![SOME WORDS](resources/Folder 1/Tweedledee/Tennieldumdee.jpg)
+![SOMEWORDS]("resources/Folder 1/Tweedledee/Tennieldumdee.jpg")
