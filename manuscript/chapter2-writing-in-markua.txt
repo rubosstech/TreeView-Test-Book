@@ -9,6 +9,8 @@ To make *italic text* you surround it with single asterisks. To make **bold text
 
 You can start new sections by starting a line with two # signs and a space, and then typing your section title.
 
+![SOME WORDS](resources/Folder 1/Tweedledee/Tennieldumdee.jpg)
+
 ### Sub-Section One
 
 You can start new sub-sections by starting a line with three # signs and a space, and then typing your sub-section title.
