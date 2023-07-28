@@ -1,1 +1,5 @@
-![SOMEWORDS]("resources/Folder 1/Tweedledee/Tennieldumdee.jpg")
+# Chapter 3
+
+Tres tristes tigres tragaban trigo de un trigal.
+
+![SOMEWORDS](resources/Folder_1/Tweedledee/Tennieldumdee.jpg)
